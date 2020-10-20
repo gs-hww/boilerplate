@@ -1,0 +1,23 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "Just a boilerplate",
+  "main": "temp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "node ./temp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gs-hww/boilerplate.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gs-hww/boilerplate/issues"
+  },
+  "homepage": "https://github.com/gs-hww/boilerplate#readme",
+  "devDependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
